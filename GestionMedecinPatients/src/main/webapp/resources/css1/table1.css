@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+.div9 {
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 10px;
+	margin-left: 370px;
+	margin-top: -230px;
+}
+.table1 th {
+	border: 1px dotted gray;
+	padding: 10px;
+	margin: 10px;
+	background: silver;
+}
+.table1 td {
+	border: 1px dotted gray;
+	padding: 10px;
+	margin: 10px;
+	background: white;
+}

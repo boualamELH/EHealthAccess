@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.Btn1{
+  background: url(../images/Administrateur.jpg)  no-repeat;
+  width: 150px;
+  height: 200px;
+  background-size: 150px 200px;
+}
+.Btn2{
+  background: url(../images/Medecin.png)  no-repeat;
+  width: 150px;
+  height: 200px;
+  background-size: 150px 200px;
+}
+.Btn3{
+  background: url(../images/Utilisateur.png)  no-repeat;
+  width: 150px;
+  margin-left: 15px;
+  height: 200px;
+  background-size: 150px 200px;
+}
+.buttons
+{
+position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+    
+}
